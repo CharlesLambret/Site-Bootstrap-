@@ -201,7 +201,9 @@ footer a {
 footer h3{
     color:white;
 }
-
+.logofooter{
+    width:15vw;
+}
 #logoettexte{
     margin-top:-40vh;
     margin-left:5vw;
