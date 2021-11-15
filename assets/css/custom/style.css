@@ -68,12 +68,13 @@ p{
 }
 @media(max-width: 1000px){
     #Intro{
-        flex-direction:column;
+        display:flex;
+        justify-content: center;
         height:100vh;
         width:100vh;
     }
     #Intro .grand-bouton-custom{
-        margin-bottom:10vh;
+        margin-bottom:5vh;
         margin-top:5vh;
         margin-left: 0vw;
     }
@@ -84,6 +85,10 @@ p{
     }
     .scrollbas{
         margin-left:0vw;
+    }
+    #Kliny_intro{
+        width:50vw;
+        margin-top:2vh;
     }
 }
 /*Cartes*/
