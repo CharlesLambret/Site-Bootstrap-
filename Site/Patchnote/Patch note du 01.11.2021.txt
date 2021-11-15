@@ -1,8 +1,0 @@
-Header non fixe 
-Dropdown qui ne fonctionne pas
-Fond de l'intro qui ne s'affiche pas
-Impossible de changer la police des boutons
-Que veulent dire mt sm etc ? je sais que ce sont des ordres de grandeur mais il faut que je comprenne les abrévations pour customiser les 
-largeurs
-Impossible de centrer Kliny vendeur ?
-Scroll inattendu ?
